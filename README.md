@@ -1,5 +1,5 @@
-## Capstone-project
-   
+## [Capstone-project](https://github.com/Yuehchang/Capstone-project/blob/master/White%20Paper.pdf)
+## Brief summary
    In a capitalistic world, we know that there is a lot of saturation in many markets. The
 fundamental housing-needs market is no different. Basement systems is a leading provider of
 consumer needs for home repair in all aspects, especially on the east coast. There is a lot of
